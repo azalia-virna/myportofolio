@@ -1,0 +1,25 @@
+.container {
+}
+
+.jumbotron {
+  background-color: #f07167;
+  padding-top: 6rem;
+  padding-bottom: 2rem;
+}
+
+#about {
+  padding-bottom: 2rem;
+}
+
+#project {
+  padding-bottom: 2rem;
+  background-color: #f07167;
+}
+
+#id {
+  border-radius: 40px;
+}
+
+section {
+  padding-top: 3rem;
+}
